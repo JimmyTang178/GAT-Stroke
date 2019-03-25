@@ -29,3 +29,7 @@ tar -zxvf data.tar.gz
 tar -zxvf edge.tar.gz
 
 python train.py
+
+You can use the following command to display the training option:
+
+python train.py --help
