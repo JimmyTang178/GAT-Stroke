@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 Download data.tar.gz and edge.tar.gz from
 
-https://drive.google.com/open?id=1-0tRJGNZGBWgmMJ6NIzUN8QY115MBLWO
+https://drive.google.com/drive/folders/1-0tRJGNZGBWgmMJ6NIzUN8QY115MBLWO?usp=sharing
 
 and put the data in the same directory of the code.
 
